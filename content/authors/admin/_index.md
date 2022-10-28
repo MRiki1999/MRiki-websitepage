@@ -22,22 +22,22 @@ bio: I love making games.
 
 # Interests to show in About widget
 interests:
-  - World View Designing
-  - Level Designing
-  - Pixel Art Drawing
+  - Reasoning and Puzzle Games
+  - Word AVG 
+  - Open World RPG
 
 # Education to show in About widget
 education:
   courses:
     - course: Master in Chemistry
-      institution: Nanjing University
+      institution: Nanjing University, China
       year: 2024
     - course: BSc in Chemistry
-      institution: Nanjing University
+      institution: Nanjing University, China
       year: 2021
-    - course: High School Student 
-      institution: NSFZ
-      year: 2017
+    - course: Exchange Student 
+      institution: Kanagawa University, Japan
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,16 +49,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MRiki1999
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -71,14 +71,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 948137141@qq.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+MI RUIQI is a graduate student in Chemistry at Nanjing University HU WENBIN's lab. Her research is mainly about the Monte Carlo Simulation of Polymer Crystallization.Though her study topic is far form game designing, she studys Unity Engine by herself for one year and has made two 2D games now. She has finished one long sci-fi novel in 2022 and participated many GameJams to be the team leader.
+She is goog at World View Designing and Level Desigining. She hope to become a game designer with female perspective, who's game will be much more friendly for women and can encourage more women to the gaming industry.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
