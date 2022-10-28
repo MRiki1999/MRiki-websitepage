@@ -15,29 +15,29 @@ role: Student in Chemistry
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Nanjing University
-    url: https:https://www.nju.edu.cn
+    url: https://www.nju.edu.cn/main.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I love making games.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - World View Designing
+  - Level Designing
+  - Pixel Art Drawing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master in Chemistry
+      institution: Nanjing University
+      year: 2024
+    - course: BSc in Chemistry
+      institution: Nanjing University
+      year: 2021
+    - course: High School Student 
+      institution: NSFZ
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
